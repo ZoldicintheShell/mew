@@ -15,4 +15,4 @@
 
 # To add images
 
-`<img src="img/latest-419827327.png" alt="Backrooms" style="width:300px;"/>`
+`\<img src="img/latest-419827327.png" alt="Backrooms" style="width:300px;"/>\`
